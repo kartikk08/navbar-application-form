@@ -1,0 +1,29 @@
+section{
+    color: rgb(50, 56, 63);
+    /* text-shadow:  3px 3px rgba(20, 20, 22, 0.5); */
+    background-color: #f1f7f7fb;
+    height: 200vh;
+}
+
+.navBg{
+    background-color: #7952b3;
+    height: 10vh;
+}
+
+.Image{
+    margin-top: 50px;
+}
+
+.abc{
+    margin-top: 50px;
+    border: 5px solid green;
+    padding-left: 20px;
+}
+
+.Imagee{
+    margin-top: 50px;
+}
+
+.table{
+    border: 20px;
+}
